@@ -1,0 +1,36 @@
+section img.linus {
+    box-shadow: none !important;
+    border: none !important;
+    transform: scale(0.5, 0.5);
+}
+
+h4 {
+    font-family: sans-serif !important;
+    font-weight: bold !important;
+}
+
+/*h1,h2,h3,h4 {
+    color: #44ADA8 !important;
+}
+*/
+td.fragment {
+    font-family: sans-serif !important;
+    font-weight: bold !important;
+}
+
+td.fragment > .libreoffice-pronunciation {
+    font-family: serif !important;
+    font-weight: normal;
+}
+
+td.fragment > .libreoffice{
+    color: #1D9D0C !important;
+}
+
+section > table > tbody > tr > td > img {
+    width: 48px !important;
+    height: 48px !important;
+    margin: 0 10px -10px 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+}
